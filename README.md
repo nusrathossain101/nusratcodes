@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there 👋, I'm Nusrat Hossain</h1>
+  <h1>Hi there, I'm Nusrat Hossain</h1>
   <h3>Computer Science Student | Backend & UI/UX Enthusiast</h3>
   
   <p><i>Building smooth digital experiences, from solid backend logic to intuitive interfaces. ✨</i></p>
