@@ -19,9 +19,9 @@
 
 <br/>
 
-### 👩🏻‍💻 Current Focus
+### 👩🏻‍💻 Currently
 
-* **🛠️ Building:** **Eventra**, a comprehensive and user-friendly Event Management App.
+
 * **🌱 Learning:** Diving deeper into **Jetpack Compose** for modern Android UI and **Firebase** for scalable backend infrastructure.
 * **💡 Passionate About:** Solving complex problems to architecting robust backends and pixel-perfect UI/UX designs.
 
